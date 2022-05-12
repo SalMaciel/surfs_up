@@ -5,7 +5,7 @@ Ideally, temperatures should be not too cold to keep customers comming, but not 
 ## Results
 Two tables were created one for the month of June and one for December.
 
-![june_summary](images/june_summary.png)  
+![june_summary](images/june_summary.PNG)  
 *June table*  
   
 ![december_summary](images/dec_summary.png)  
