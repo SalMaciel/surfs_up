@@ -17,5 +17,5 @@ Two tables were created one for the month of June and one for December.
 - December has also a symetrical distribution but sliltly skewed to the right, we can expect about half of the month to see temperatures of 71 and higher.
 
 ## Summary
-From the analisys we can conclude that Oahu has a farly warm wheather throuhgout the year without getting too hot. Analysis also suggest that we can expect temperatures to not change drastically from day to day since the standard diviation for June is 3.25 and for Decembers is 3.74.
+From the analisys we can conclude that Oahu has a fairly warm wheather throuhgout the year without getting too hot. Analysis also suggest that we can expect temperatures to not change drastically from day to day since the standard diviation for June is 3.25 and for Decembers is 3.74.
 Eventhough our focus was only on temperatures, we could have done a deeper dive into the database to learn more. For insteance, I would run a query to find out more about rain and determine patterns. Depending on the data available I would also run queries to know more about atmospheric pressure and try find out if this is hurricane prone area.
